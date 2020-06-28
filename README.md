@@ -1,6 +1,4 @@
-# Mast
-A great new Mastodon app for iOS.
+# Nuwa for iOS on top of open source
 
-This is the source code for the Mast app which can be found on the App Store - https://itunes.apple.com/us/app/mast/id1437429129
+A great new Nuwa app for iOS. We are building a great decentralized media platform.
 
-Happy to take on pull requests and changes.
